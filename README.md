@@ -1,3 +1,6 @@
+# Robofriends
+A simple react web app that filter robots by search. This is an excercise from ZTM Web Developer course. All rights belong to the authors of the course.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
